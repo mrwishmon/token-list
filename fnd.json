@@ -1,0 +1,12 @@
+{
+  "name": "FanDrop",
+  "symbol": "FND",
+  "description": "The official token of the FanDrop community.",
+  "image": "https://github.com/mrwishmon/token-list/blob/main/FanDrop_logo_200x200.png?raw=true",
+  "decimals": 6,
+  "seller_fee_basis_points": 0,
+  "properties": {
+    "category": "image",
+    "creators": []
+  }
+}
